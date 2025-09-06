@@ -1,0 +1,44 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+
+# Gemini / Google GenAI
+langchain-google-genai
+google-generativeai
+
+# Vector DB
+chromadb
+sentence-transformers
+
+# Transformers and Tokenization
+transformers
+accelerate
+tokenizers
+
+# File Handling
+pandas
+pyarrow
+
+# Web API
+flask
+flask-cors
+
+# Env Vars
+python-dotenv
+
+# Optional: DB Connector
+pymysql
+
+# Utilities
+numpy
+scikit-learn
+tqdm
+rich
+
+# Optional: Testing
+pytest
+
+# Packaging (pin to avoid conflicts)
+packaging>=23.2,<25
